@@ -1,2 +1,0 @@
-# NewPoject
-소트
